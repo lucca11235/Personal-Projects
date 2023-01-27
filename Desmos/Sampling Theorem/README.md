@@ -4,8 +4,9 @@ The Sampling Theorem is a fundamental concept in signal processing that states t
 
 I chose to create a visualization of the Sampling Theorem using Desmos because it is a powerful and user-friendly tool that allows me to easily demonstrate the concept and its implications. Additionally, Desmos allows the user to interact with the visualization, which enables a deeper understanding of the Sampling Theorem and how it works. The visualization also helped me to understand the concept better by visualizing the results.
 
-# Preview 
+Click [here](https://www.desmos.com/calculator/vuykpmfe9r) to go visit my project on Desmos.
 
+# Preview 
 
 ![Sampling-Theorem](https://user-images.githubusercontent.com/91396656/215157800-fd316013-81d5-4f5d-bb4c-7c1e2f0869f9.gif)
 
